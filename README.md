@@ -1,1 +1,3 @@
-# cribar_jackson_python_data_vis
+# This Is the history of the Canadian Olympic team's medal counts
+
+# This application goes over the history of the Canadian Olympic team from 1924-2014
