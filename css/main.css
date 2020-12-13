@@ -1,6 +1,146 @@
-.hidden
+* {
+	border: none;
+	padding: 0;
+	margin: 0;
+}
 
+body
+
+{
+	font-size: 20; font-family: 'Arial', "Calibri", "Cambria";
+	background-color: #70788F;
+	background-image: url(https://wallpaperaccess.com/full/364838.jpg);
+}
+
+.hidden
 {
 	display: none;
 }
 
+.container
+{
+	width: 1080px;
+	margin: 0 auto;
+	background-color: #ffffff;
+
+}
+
+.title
+{
+	text-align: center;
+	font-size: 35px;
+	margin-top: 50px
+	margin-bottom: 50px;
+	width: 1080px;
+}
+
+
+.introtext
+{
+	text-align: center;
+	font-size: 22px;
+	margin-top: 10px;
+}
+
+.intro
+{
+	text-align: center;
+	font-size: 20px
+}
+
+.menvwomen
+{
+	text-align: center;
+	font-size: 20px;
+	margin-top: 30px;
+}
+
+.image1
+{
+	display: block;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 10px;
+	border: 2px solid #000000;
+}
+
+.skiingvskating
+{
+	text-align: center;
+	font-size: 20px;
+	margin-top: 10px	
+}
+
+.image2
+{
+	display: block;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 10px;
+	border: 2px solid #000000;
+}
+
+.chnvjpn
+{
+	text-align: center;
+	font-size: 20px;
+	margin-top: 10px
+}
+
+.image3
+{
+	display: block;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 10px;
+	border: 2px solid #000000;
+}
+
+.middletext
+{
+	text-align: center;
+	font-size: 20px;
+	margin-top: 10px
+}
+
+.image4
+{
+	display: block;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 10px;
+	border: 2px solid #000000;
+}
+
+
+.comparinggames
+{
+	text-align: center;
+	font-size: 20px;
+	margin-top: 10px
+}
+
+.image5
+{
+	display: block;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 10px;
+	border: 2px solid #000000;
+}
+
+.accurate
+{
+	text-align: center;
+	font-size: 20px;
+	margin-top: 10px
+}
+
+.image6
+{
+	display: block;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 10px;
+	border: 2px solid #000000;
+}
