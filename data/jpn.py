@@ -2,11 +2,11 @@ import matplotlib.pyplot as plt
 
 hfont = {'fontname':'codec cold' }
 
-values = [50, 13]
+values = [13, 14]
 
-colors =['#FAE500', '#2E00AD']
+colors =['#FF0000', '#FFE65C']
 
-labels = ["Men", "Women"]
+labels = ["Japan", "China"]
 
 explode = (0, 0.1)
 
@@ -14,4 +14,3 @@ plt.pie(values, labels=labels, colors=colors, explode=explode)
 
 
 plt.show()
-
